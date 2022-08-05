@@ -1,18 +1,28 @@
-### Hi there 👋
+### Hi nice to meet you! 😁 My name is Steven and I am a Software Developer
 
-My name is Steven
+Want to chat?
 
-<!--
-**stevenowo/stevenowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-stevenliu-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/stevenl273/)](www.linkedin.com/in/stevenl273/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:steven.gm.105@gmail.com)
 
-Here are some ideas to get you started:
+Programming languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+
+
+Resume 
+
+📝 [PDF Verison](https://github.com/stevenowo/stevenowo/blob/main/Steven_Liu_Resume_2022.pdf)
+
+📝 [Word Docx Verison](https://github.com/stevenowo/stevenowo/blob/main/Steven_Liu_Resume_2022.docx)
+
+
+
+
+
+
+
+
+
