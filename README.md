@@ -2,7 +2,7 @@
 
 Want to chat?
 
-[![Linkedin Badge](https://img.shields.io/badge/-stevenliu-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/stevenl273/)
+[![Linkedin Badge](https://img.shields.io/badge/-stevenl273-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stevenl273/)](https://www.linkedin.com/in/stevenl273/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:steven.gm.105@gmail.com)
 
 Programming languages
